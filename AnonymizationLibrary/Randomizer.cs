@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Text;
-namespace AnonymizationOFPatientData
+namespace AnonymizationLibrary
 {
     public class Randomizer
     {

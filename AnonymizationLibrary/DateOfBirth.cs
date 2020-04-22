@@ -1,5 +1,5 @@
 ﻿using System;
-namespace AnonymizationOFPatientData
+namespace AnonymizationLibrary
 {
     public class DateOfBirth
     {
