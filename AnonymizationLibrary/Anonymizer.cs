@@ -18,7 +18,7 @@ namespace AnonymizationLibrary
             List<string> streets = null;
             try
             {
-            streets = ArrayToList(File.ReadAllLines(@"/Users/christopheraneke/Projects/street.txt"));
+            streets = ArrayToList(File.ReadAllLines(@"/Users/christopheraneke/Projects/AnonymizationLibrary/AnonymizationLibrary/street.txt"));
 
             } catch (Exception ex)
             {
@@ -35,7 +35,7 @@ namespace AnonymizationLibrary
             List<string> streetSuffixes = null;
             try
             {
-                streetSuffixes = ArrayToList(File.ReadAllLines(@"/Users/christopheraneke/Projects/street-suffix.txt"));
+                streetSuffixes = ArrayToList(File.ReadAllLines(@"/Users/christopheraneke/Projects/AnonymizationLibrary/AnonymizationLibrary/street-suffix.txt"));
 
             } catch (Exception ex)
             {
@@ -50,7 +50,7 @@ namespace AnonymizationLibrary
             "Newcastle upon Tyne", "Norwich", "Nottingham", "Oxford", "Peterborough", "Plymouth", "Portsmouth", "Preston", "Ripon",
             "Salford", "Salisbury", "Sheffield", "Southampton", "St Albans", "Stoke - on - Trent", "Sunderland", "Truro", "Wakefield",
             "Wells", "Westminster", "Winchester", "Wolverhampton", "Worcester", "York"};
-            static List<string> counties = ArrayToList(System.IO.File.ReadAllLines(@"/Users/christopheraneke/Projects/counties.txt"));
+            static List<string> counties = ArrayToList(System.IO.File.ReadAllLines(@"/Users/christopheraneke/Projects/AnonymizationLibrary/AnonymizationLibrary/counties.txt"));
 
 
         readonly static string[] familyNames = CreateFamilyNames();
@@ -61,7 +61,7 @@ namespace AnonymizationLibrary
             string[] familyNames = null;
             try
             {
-                familyNames = File.ReadAllLines(@"/Users/christopheraneke/Projects/family_names.txt");
+                familyNames = File.ReadAllLines(@"/Users/christopheraneke/Projects/AnonymizationLibrary/AnonymizationLibrary/family_names.txt");
                 
             } catch (Exception ex)
             {

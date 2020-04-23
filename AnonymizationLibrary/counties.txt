@@ -1,0 +1,46 @@
+Bedfordshire
+Berkshire
+Buckinghamshire
+Cambridgeshire
+Cheshire
+Cornwall
+Cumbria
+Derbyshire
+Devon
+Dorset
+Durham
+East Riding
+East Sussex
+East Yorkshire
+Essex
+Gloucestershire
+Greater London
+Hampshire
+Hertfordshire
+Huntingdonshire
+Kent
+Lancashire
+Leicestershire
+Lincolnshire
+Merseyside
+Middlesex
+Norfolk
+Northamptonshire
+Northumberland
+Nottinghamshire
+Oxfordshire
+Rutland
+Shropshire
+Somerset
+South Yorkshire
+Staffordshire
+Suffolk
+Surrey
+Tyne and Wear
+Warwickshire
+Westmorland
+Wiltshire
+Worcestershire
+West Sussex
+West Yorkshire 
+ 
