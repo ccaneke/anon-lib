@@ -1,0 +1,1 @@
+Library for anonymizing medical data json payload. The Anonymizer class of this library is used only by the anon-webapi application. While the Randomizer class is used by the e2e_to_dicom application.
